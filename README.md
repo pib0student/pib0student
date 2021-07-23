@@ -1,16 +1,17 @@
-### Hi there 👋
+# Halo semua! 👋
 
-<!--
-**pib0student/pib0student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Philip Imanuel Balangkaehe**\
+Panggil saja saya **Philip**.\
+Tempat lahir: Pangkalan Bun, Tahun: 2000.\
+Hobi: Gitar, mendengarkan musik, sepak bola
 
-Here are some ideas to get you started:
+Saya suka dengan perkembangan teknologi dan saya suka belajar hal-hal baru.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 saat ini saya sedang mempelajari:\
+-website developer (**_Front-end_|Back-end**)<br/> 
+-android developer<br/>
+-desktop devloper
+
+
+
+
