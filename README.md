@@ -8,9 +8,9 @@ Hobi: Gitar, mendengarkan musik, sepak bola
 Saya suka dengan perkembangan teknologi dan saya suka belajar hal-hal baru.
 
 🌱 saat ini saya sedang mempelajari:\
--website developer (**_Front-end_|Back-end**)<br/> 
--android developer<br/>
--desktop devloper
+- website developer (**_Front-end_|Back-end**)<br/> 
+- android developer<br/>
+- desktop devloper
 
 <p align="left">
 <a href="https://github.com/pib0student">
