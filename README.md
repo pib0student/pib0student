@@ -7,7 +7,7 @@ Hobi: Gitar, mendengarkan musik, sepak bola
 
 Saya suka dengan perkembangan teknologi dan saya suka belajar hal-hal baru.
 
-🌱 saat ini saya sedang mempelajari:\
+🌱 saat ini saya sedang mempelajari:
 - website developer (**_Front-end_|Back-end**)<br/> 
 - android developer<br/>
 - desktop devloper
