@@ -36,9 +36,12 @@ Hobi: Gitar, mendengarkan musik, sepak bola
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"/>
-  
 </p>
 
+## 👀 Views
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=pib0student">
+</a>
 
 
 
