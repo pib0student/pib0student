@@ -22,6 +22,7 @@ Hobi: Gitar, mendengarkan musik, sepak bola
   <img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png"/>
   <img src="https://img.icons8.com/officexs/50/000000/php-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 </p>
   
 <p align="left">
