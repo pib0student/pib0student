@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> Halo semua! 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> Halo semua! 
 
 ## 🙏🏻Intro
 Perkenalkan nama saya **Philip Imanuel Balangkaehe**  
