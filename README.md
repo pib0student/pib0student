@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> Halo semua! 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"> Halo semua! 
 
 ## 🙏🏻Intro
 Perkenalkan nama saya **Philip Imanuel Balangkaehe**  
@@ -14,7 +14,7 @@ Hobi: Gitar, mendengarkan musik, sepak bola
 - 🔜 desktop devloper
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%" height="3%"> Languages
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
